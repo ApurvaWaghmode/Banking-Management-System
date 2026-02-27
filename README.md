@@ -185,11 +185,9 @@ password    VARCHAR(100)            balance         DOUBLE
 ## 👩‍💻 Author
 
 **Apurva Vinay Waghmode**  
-📧 apurva@gmail.com  
-🔗 [GitHub Profile](https://github.com/YourUsername)
+📧 apurvawaghmode1975@gmail.com  
+🔗 [GitHub Profile](https://github.com/ApurvaWaghmode)
 
 ---
 
-## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE).
