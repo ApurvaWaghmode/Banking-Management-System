@@ -37,13 +37,13 @@ Git & GitHub	Version control and project hosting
 Banking-Management-System-master/
 ├── .idea/
 │   └── lib/
-│       └── mysql-connector-j-8.0.33.jar   ← JDBC Driver
+│       └── mysql
 ├── src/
 │   └── BankingManagementSystem/
-│       ├── BankingApp.java       ← Main file (entry point + DB connection)
-│       ├── User.java             ← Register & Login logic
-│       ├── Accounts.java         ← Open account & account number generation
-│       └── AccountManager.java   ← Debit, Credit, Transfer, Balance
+│       ├── BankingApp.js       ← Main file (entry point + DB connection)
+│       ├── User.js            ← Register & Login logic
+│       ├── Accounts.js         ← Open account & account number generation
+│       └── AccountManager.js  ← Debit, Credit, Transfer, Balance
 ├── .vscode/
 │   ├── settings.json
 │   └── launch.json
