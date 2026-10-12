@@ -17,15 +17,17 @@ A console-based Banking Management System built using **Core Java** and **MySQL*
 
 ---
 
-## 🛠️ Technologies Used
-
-| Technology | Purpose |
-|---|---|
-| Java (JDK 21) | Core programming language |
-| MySQL 8.0 | Database to store user and account data |
-| JDBC | Connects Java code to MySQL database |
-| mysql-connector-j 8.0.33 | MySQL JDBC Driver (JAR file) |
-| VS Code | IDE used for development |
+Technology	Purpose
+Node.js	JavaScript runtime for executing server-side code
+Express.js	Backend framework for handling routes, requests, responses, and middleware
+EJS	Template engine for rendering dynamic HTML pages
+MySQL 8.0	Database to store student records and academic information
+mysql2	Connects Node.js to the MySQL database and executes SQL queries
+HTML5	Creates forms and page structure
+CSS3	Styles the user interface
+JavaScript	Handles client-side interactions and form validation
+VS Code	IDE used for development
+Git & GitHub	Version control and project hosting
 
 ---
 
